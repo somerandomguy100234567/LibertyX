@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace bloxhub1
+namespace Liberty_X1
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace bloxhub1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Forest1());
+            Application.Run(new LibertyX1());
         }
     }
 }
